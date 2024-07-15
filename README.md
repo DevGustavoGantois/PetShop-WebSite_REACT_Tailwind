@@ -5,6 +5,10 @@
 
 <p>Tecnologias utilizadas neste projeto:</p>
 
+![DevGustavoGantois](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 
 ![image](https://github.com/user-attachments/assets/ea06f8f5-cb97-4fb5-b65a-96e60e8edd29)
